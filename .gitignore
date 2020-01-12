@@ -1,0 +1,9 @@
+# 此为注释 – 将被 Git 忽略
+# 忽略所有 .a 结尾的文件
+*.pdf
+*.DS_Store
+# 但 lib.a 除外
+!book.pdf
+# 仅仅忽略项目根目录下的 TODO 文件，不包括 subdir/TODO
+/_book
+/node_modules

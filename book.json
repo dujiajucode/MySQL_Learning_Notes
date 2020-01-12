@@ -1,0 +1,55 @@
+{
+    "title": "MySQL学习笔记",
+    "author": "加大爷",
+    "description": "select * from learn",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "我的博客": "https://blog.csdn.net/jj1995"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "splitter",
+        "expandable-chapters-small",
+        "anchors",
+        "-search",
+
+        "github",
+        "github-buttons",
+        "anchor-navigation-ex",
+        "code",
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/dujiajucode/"
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "dujiajucode",
+                "repo": "MySQL_Learning_Notes",
+                "type": "star",
+                "size": "small",
+                "count": true
+                }
+            ]
+        },
+         "tbfed-pagefooter": {
+            "copyright":"Copyright &copy dujiaju.net 2020",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        
+        "anchor-navigation-ex": {
+            "showLevel": false
+        }
+    }
+}
