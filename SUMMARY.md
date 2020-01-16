@@ -6,7 +6,7 @@
 
 * [简单查询（SELECT 语句）](part1/1.SELECT.md)
 * [排序查询（ORDER By语句）](part1/2.ORDERBY.md)
-* [筛选数据（WHERE子句）](part1/3.WHERE.md)
+* [过滤数据（WHERE子句）](part1/3.WHERE.md)
 * [MySQL库函数](part1/4.FUNCTION.md)
 * [分组查询（GROUP BY语句）](part1/5.GROUPBY.md)
 * [子查询(IN)](part1/6.IN.md)
