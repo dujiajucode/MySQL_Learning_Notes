@@ -23,12 +23,12 @@
 
 ### Part III 高级特性
 
-* [视图（VIEW）](part2/feedback_please.md)
-* [存储过程(PROCEDURE)](part2/better_tools.md)
-* [游标(DECLARE)](part2/better_tools.md)
-* [触发器(TRIGGER)](part2/better_tools.md)
-* [事务(TRANSACTION)](part2/better_tools.md)
-* [MySQL用户管理](part2/better_tools.md)
+* [视图(VIEW)](part3/1.VIEW.md)
+* [存储过程(PROCEDURE)](part3/2.PROCEDURE.md)
+* [游标(DECLARE)](part3/3.DECLARE.md)
+* [触发器(TRIGGER)](part3/4.TRIGGER.md)
+* [事务(TRANSACTION)](part3/5.TRANSACTION.md)
+* [MySQL用户管理](part3/6.USER.md)
 
 
 
