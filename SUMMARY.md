@@ -15,13 +15,20 @@
 
 ### Part II 增删改
 
-* [We love feedback](part2/feedback_please.md)
-* [Better tools for authors](part2/better_tools.md)
+* [插入数据(INSERT)](part2/1.INSERT.md)
+* [更新数据(UPDATE)](part2/2.UPDATE.md)
+* [删除数据(DELETE)](part2/3.DELETE.md)
+* [增删改表(CREATE、ALTER、DROP)](part2/4.CREATE.md)
+* [MySQL数据类型](part2/5.DATATYPE.md)
 
 ### Part III 高级特性
 
-* [We love feedback](part2/feedback_please.md)
-* [用户管理](part2/better_tools.md)
+* [视图（VIEW）](part2/feedback_please.md)
+* [存储过程(PROCEDURE)](part2/better_tools.md)
+* [游标(DECLARE)](part2/better_tools.md)
+* [触发器(TRIGGER)](part2/better_tools.md)
+* [事务(TRANSACTION)](part2/better_tools.md)
+* [MySQL用户管理](part2/better_tools.md)
 
 
 
