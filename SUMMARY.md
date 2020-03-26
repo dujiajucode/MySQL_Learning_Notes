@@ -25,10 +25,9 @@
 
 * [视图(VIEW)](part3/1.VIEW.md)
 * [存储过程(PROCEDURE)](part3/2.PROCEDURE.md)
-* [游标(DECLARE)](part3/3.DECLARE.md)
-* [触发器(TRIGGER)](part3/4.TRIGGER.md)
-* [事务(TRANSACTION)](part3/5.TRANSACTION.md)
-* [MySQL用户管理](part3/6.USER.md)
+* [触发器(TRIGGER)](part3/3.TRIGGER.md)
+* [事务(TRANSACTION)](part3/4.TRANSACTION.md)
+* [MySQL用户管理](part3/5.USER.md)
 
 
 
